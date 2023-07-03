@@ -1,7 +1,6 @@
 {
   "name": "comp-mantine",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "@mantine/core": "^6.0.9",
     "@mantine/form": "^6.0.9",
